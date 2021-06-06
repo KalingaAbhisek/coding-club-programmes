@@ -44,6 +44,7 @@ public class Q2 {
     	              }
     	          }
     	      }
+    	         System.out.println("Sorted matrix:");
     	         for(int k =0;k<m;k++) {
     	         	for(int l =0;l<n;l++) {
     	                 System.out.print(num[k][l]+" ");
